@@ -1,0 +1,24 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "jsx": "react-native",
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./*"],
+      "@zodok/shared": ["./shared"],
+      "@zodok/shared/*": ["./shared/*"],
+      "@zodok/ui": ["./shared/ui"],
+      "@zodok/ui/*": ["./shared/ui/*"],
+      "@zodok/theme": ["./shared/theme"],
+      "@zodok/components": ["components/"],
+      "@assets/*": ["assets/*"],
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}

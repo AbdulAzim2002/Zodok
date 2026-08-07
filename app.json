@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "Zodok",
+    "slug": "store-app",
+    "version": "0.9.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/IOSIcon.jpg",
+    "scheme": "storeapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "backgroundColor": "#ffffff",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "backgroundColor": "#000000",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zodok.storeapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "LSApplicationQueriesSchemes": [
+          "itms-apps"
+        ]
+      }
+    },
+    "android": {
+      "backgroundColor": "#ffffff",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/AndroidIcon.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.zodok.storeapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/IOSIcon.jpg"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-audio",
+      "expo-video",
+      "expo-web-browser",
+      "expo-secure-store",
+      "expo-asset",
+      "expo-font",
+      [
+        "expo-navigation-bar",
+        {
+          "hidden": false,
+          "style": "light"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "23d334e2-e922-418c-a98c-26ef5919ff5c"
+      }
+    }
+  }
+}

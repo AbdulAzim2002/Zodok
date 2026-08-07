@@ -1,0 +1,198 @@
+{
+    "border": {
+      "radius": {
+        "image": {
+          "value": "{border.radius.6x}",
+          "type": "borderRadius"
+        },
+        "cardimage": {
+          "value": "{border.radius.4x}",
+          "type": "borderRadius"
+        },
+        "button": {
+          "value": "{border.radius.4x}",
+          "type": "borderRadius"
+        },
+        "card": {
+          "value": "{border.radius.8x}",
+          "type": "borderRadius"
+        },
+        "input": {
+          "value": "{border.radius.4x}",
+          "type": "borderRadius"
+        },
+        "checkbox": {
+          "value": "{border.radius.2x}",
+          "type": "borderRadius"
+        },
+        "section": {
+          "value": "{border.radius.12x}",
+          "type": "borderRadius"
+        },
+        "pagination": {
+          "value": "{border.radius.05x}",
+          "type": "borderRadius"
+        }
+      },
+      "width": {
+        "select": {
+          "value": "{border.width.regular}",
+          "type": "borderWidth"
+        },
+        "input": {
+          "value": "{border.width.regular}",
+          "type": "borderWidth"
+        }
+      }
+    },
+    "space": {
+      "gap": {
+        "heading_to_paragraph": {
+          "value": "{space.050x}",
+          "type": "spacing"
+        },
+        "heading_to_heading": {
+          "value": "{space.100x}",
+          "type": "spacing"
+        },
+        "paragraph_to_paragraph": {
+          "value": "{space.025x}",
+          "type": "spacing"
+        },
+        "select": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "grid": {
+          "value": "{space.150x}",
+          "type": "spacing"
+        },
+        "subsection": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "input": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "section": {
+          "value": "{space.250x}",
+          "type": "spacing"
+        },
+        "button": {
+          "value": "{space.150x}",
+          "type": "spacing"
+        },
+        "max": {
+          "value": "{space.400x}",
+          "type": "spacing"
+        },
+        "inputsystem": {
+        "value": "{space.150x}",
+        "type": "spacing"
+      },
+            "minigrid": {
+        "value": "{space.100x}",
+        "type": "spacing"
+      }
+      },
+      "padding": {
+        "banner": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "select": {
+          "value": "{space.250x}",
+          "type": "spacing"
+        },
+        "button": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "input": {
+          "value": "{space.200x}",
+          "type": "spacing"
+        },
+        "card": {
+          "value": "{space.100x}",
+          "type": "spacing"
+        },
+        "container": {
+        "value": "{space.200x}",
+        "type": "spacing"
+      },
+        "max": {
+        "value": "{space.400x}",
+        "type": "spacing"
+      },
+        "tagvertical": {
+        "value": "{space.050x}",
+        "type": "spacing"
+      }
+      }
+    },
+    "color": {
+      "notification": {
+        "black": {
+          "value": "{color.neutral.black}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{color.neutral.white}",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "primary": {
+          "value": "{color.primary.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.secondary.500}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{color.tertiary.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "bg": {
+          "anydark": {
+            "value": "{color.neutral.white}",
+            "type": "color"
+          },
+          "primarylight": {
+            "value": "{color.primary.900}",
+            "type": "color"
+          },
+          "secondarylight": {
+            "value": "{color.secondary.900}",
+            "type": "color"
+          },
+          "tertiarylight": {
+            "value": "{color.tertiary.900}",
+            "type": "color"
+          }
+        }
+      },
+      "icon": {
+        "success": {
+          "value": "{color.success.500}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.error.500}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{color.warning.500}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{color.info.500}",
+          "type": "color"
+        }
+      }
+    }
+  }
