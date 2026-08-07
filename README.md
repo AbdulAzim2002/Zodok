@@ -53,6 +53,10 @@ which generates a URL like the one below. Upload your .mp4 through the GitHub we
 
 https://github.com/user-attachments/assets/your-video-id-here
 
+https://github.com/user-attachments/assets/3f02d134-9372-4bde-8870-33fdeebb9b1f
+
+
+
 <!--
 Alternative: link to a video hosted elsewhere (YouTube, Loom, etc.)
 [![Watch the demo](./screenshots/video-thumbnail.png)](https://www.youtube.com/watch?v=your-video-id)
