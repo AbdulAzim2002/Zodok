@@ -51,7 +51,7 @@ which generates a URL like the one below. Upload your .mp4 through the GitHub we
 (open a new issue, drag the video in, copy the generated link) then paste it here.
 -->
 
-https://github.com/user-attachments/assets/your-video-id-here
+[https://github.com/user-attachments/assets/your-video-id-here](https://github.com/user-attachments/assets/bbe0ba22-a50e-4fa3-bfbc-19c43da3e11c)
 
 https://github.com/user-attachments/assets/3f02d134-9372-4bde-8870-33fdeebb9b1f
 
